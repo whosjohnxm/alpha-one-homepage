@@ -1,8 +1,8 @@
-# alpha-one-homepage
+# alpha-one-homepage (project title)
 
 This is a shared directory page for the alpha-one session of PE.
 
-The goal is to showcase student work - and also practice using Github.
+The goal is to showcase student work - and also practice using Github. (project description)
 
 ## Techonologies?
 
@@ -14,4 +14,4 @@ The goal is to showcase student work - and also practice using Github.
 
 ## What else goes in a README?
 
-?
+[make a readme](https://www.makeareadme.com)
