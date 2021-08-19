@@ -10,7 +10,7 @@ The goal is to showcase student work - and also practice using Github. (project 
 
 ## Getting setup?
 
-?
+Making videos about that right now. (example of an upstream/(main repo) change)
 
 ## What else goes in a README?
 
