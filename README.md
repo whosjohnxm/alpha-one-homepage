@@ -22,4 +22,10 @@ Making videos about that right now. (example of an upstream/(main repo) change)
 -project requirements
 
 [make a readme](https://www.makeareadme.com)
->>>>>>> 6f8c4768ef5fdec7e03ffee6f7f68bcfb6b6205b
+
+
+## I was here
+
+### Derek M Was HERE!
+
+I am simply trying to change something, and then make a pull request (which really should be called a PUSH request, right?)
