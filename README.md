@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # alpha-one-homepage
 [README.md](https://github.com/mprizzuto/alpha-one-homepage/files/7018079/README.md)
 
-=======
 # alpha-one-homepage (project title)
 
 This is a shared directory page for the alpha-one session of PE.
@@ -10,8 +8,10 @@ This is a shared directory page for the alpha-one session of PE.
 The goal is to showcase student work - and also practice using Github. (project description)
 
 ## Techonologies?
-
-?
+-git
+-HTML
+-CSS
+-PHP
 
 ## Getting setup?
 
